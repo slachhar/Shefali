@@ -1,0 +1,6 @@
+D:\GitProject\BubbleSort\MergeSort\bin\Debug\MergeSort.exe.config
+D:\GitProject\BubbleSort\MergeSort\bin\Debug\MergeSort.exe
+D:\GitProject\BubbleSort\MergeSort\bin\Debug\MergeSort.pdb
+D:\GitProject\BubbleSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\GitProject\BubbleSort\MergeSort\obj\Debug\MergeSort.exe
+D:\GitProject\BubbleSort\MergeSort\obj\Debug\MergeSort.pdb

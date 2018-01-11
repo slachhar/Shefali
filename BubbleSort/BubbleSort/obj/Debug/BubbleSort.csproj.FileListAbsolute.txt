@@ -1,0 +1,7 @@
+D:\GitProject\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\GitProject\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\GitProject\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\GitProject\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+D:\GitProject\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\GitProject\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\GitProject\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
